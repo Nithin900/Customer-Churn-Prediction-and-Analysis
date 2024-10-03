@@ -1,15 +1,19 @@
 **Customer Churn Analysis** 
-Problem Statement
+
+**Problem Statement**
+
 Customer churn has been identified as a significant issue for businesses, where 16.8% of the total customers have churned. 
 The early churn, particularly for customers with a tenure of 0-9 months and those who have made only one purchase, indicates that immediate action is required to understand the factors driving this behavior. 
 The key challenge is to retain customers who might be one-time or seasonal buyers and address the high churn rates observed in certain demographic groups and city tiers.
 
 **Solution Statement**
+
 This project seeks to analyze customer churn patterns, identify the contributing factors, and provide actionable insights to reduce churn. 
 Through a detailed analysis of customer data, including their purchase behavior, complaints, and satisfaction levels, several trends have been identified that can inform targeted retention strategies. 
 The goal is to implement marketing and customer service tactics that enhance customer loyalty and reduce churn rates, especially in at-risk groups.
 
 **Insights**
+
 * Churn Rate: 16.8% of customers have churned, with a particular focus needed on retaining customers who churn early in their lifecycle (0-9 months).
 * Last Purchase Behavior: 17.5% of customers churned shortly after their last purchase, indicating a pattern of one-time or seasonal buyers.
 * City Tier Analysis: City tiers 1 and 3 show high churn rates despite a large number of orders from both genders, highlighting a need to focus on these regions.
